@@ -1,0 +1,12 @@
+Download Kali Linux
+
+Download Kali Linux – our most advanced penetration testing platform we have ever made. Available in 32 bit, 64 bit, and ARM flavors, as well as a number of specialized builds for many popular hardware platforms. Kali can always be updated to the newest version without the need for a new download.
+Kali Documentation
+
+Whether you are a seasoned veteran or a novice – our multi-language Kali Linux documentation site will have something you need to know about Kali Linux. Multiple scenarios and “recipes” are available, allowing you to easily create custom complex images with ease, such as the Kali Linux ISO of Doom.
+Kali Community
+
+Kali Linux, with its BackTrack lineage, has a vibrant and active community. With active Kali forums, IRC Channel, Kali Tools listings, an open bug tracker system and community provided tool suggestions – there are many ways for you to get involved in Kali Linux today. Joining the community is easy – don’t hesitate; jump right in!
+Offensive Security
+
+Offensive Security was born out of the belief that the only real way to achieve sound defensive security is through an offensive mindset and approach. Kali Linux is one of several Offensive Security projects – funded, developed and maintained as a free and open-source penetration testing platform.

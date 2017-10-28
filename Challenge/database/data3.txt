@@ -1,0 +1,5 @@
+Wikimedia Commons is a repository of free images, videos, sounds and other multimedia files. Uploaded files can be used as local files by other projects on the Wikimedia servers, including Meta-Wiki, MediaWiki, Wikibooks, Wikinews, Wikipedia, Wikiquote, Wikisource, Wikiversity, Wikivoyage, and Wiktionary. The InstantCommons feature also supports imports on other wikis.
+
+This page is an index of all Wikimedia Commons' maintenance and Help pages. The following articles contain guidance and information about reading, authoring, and participating in the Commons community.
+
+Having trouble finding out what you need to know? If it's not covered by the Frequently Asked Questions (FAQ), try asking at the help desk.
