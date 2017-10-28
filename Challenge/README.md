@@ -10,9 +10,12 @@ There are some clues:
 3) The passwords used to encrypt each file is the same.
 4) The passwords are less than or equal to 7 characters.
 5) If you want more files for analysis I can make more.
+6) Files are encrypted twice with just the salt changing again the password is never changed it is the same for every file
+7) no one has beaten this encryption (even me) this is designed to NOT be solved have fun solving this!
 
 The people that have completed the challenge:
 no one yet :(
+you?
 
 
 Reason I am doing this:
